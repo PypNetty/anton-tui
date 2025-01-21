@@ -1,0 +1,31 @@
+# Binaires et builds
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Fichiers de test
+*.test
+*.tmp
+
+# Fichiers de couverture
+*.out
+
+# Dépendances
+vendor/
+
+# Fichiers système
+.DS_Store
+.env
+
+# IDEs et éditeurs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
